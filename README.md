@@ -7,7 +7,7 @@ This is a ToDoList program which i coded with HTML , CSS and JavaScript and it h
 ![Image](https://github.com/user-attachments/assets/7c54ae2a-cb3c-4ddb-8547-3290c5e954b7)
 
 
-- [Demo Project](https://shayanmnik.github.io/Clock/)
+- [Demo Project](https://shayanmnik.github.io/ToDoList/)
 
 - Developed by Shayan Nik
 
